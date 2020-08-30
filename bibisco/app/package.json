@@ -63,7 +63,7 @@
     "fs-extra": "^2.1.2",
     "html-to-text": "^3.3.0",
     "htmlparser2": "^3.9.2",
-    "lokijs": "1.5.2",
+    "lokijs": "1.5.10",
     "mout": "^1.1.0",
     "request": "^2.88.2",
     "sanitize-html": "^1.23.0",
