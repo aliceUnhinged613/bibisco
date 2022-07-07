@@ -98,7 +98,7 @@
     "grunt": "^1.1.0",
     "grunt-properties-to-json": "^0.6.0",
     "macos-alias": "^0.2.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ng-focus-if": "^1.0.7",
     "node-addon-api": "^3.0.0",
     "pdfmake": "^0.1.65",
